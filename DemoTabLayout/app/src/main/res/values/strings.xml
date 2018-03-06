@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DemoTabLayout</string>
+    <string name="action_settings">Settings</string>
+
+    <!--
+    ================================================================================================
+    Navigation Items String
+    ================================================================================================
+    -->
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+    <!--
+    ================================================================================================
+    Font-Awesome String
+    ================================================================================================
+    -->
+
+    <string name="fa_user_o">&#xf007;</string>
+    <string name="fa_envelope_o">&#xf0e0;</string>
+    <string name="fa_phone">&#xf095;</string>
+    <string name="fa_lock_o">&#xf023;</string>
+    <string name="fa_home">&#xf015;</string>
+    <string name="fa_rupee">&#xf156;</string>
+    <string name="fa_fire">&#xf06d;</string>
+    <string name="fa_angle_right">&#xf054;</string>
+    <string name="fa_plus_circle">&#xf055;</string>
+    <string name="fa_setting">&#xf013;</string>
+    <string name="fa_about_us">&#xf0c0;</string>
+
+
+
+</resources>
